@@ -1,7 +1,7 @@
 # Setup_Personal_VPN
 Build a server through Akamai and practice local and remote VPN based on WireGuard
 
-This article is just notes, and does not involve very professional coding and principle analysis. This note only ensures that personal VPN can be configured smoothly. In addition, special thanks to Maxwell for full remote support.
+This article is just notes, and does not involve very professional coding and principle analysis. This note only ensures that personal VPN can be configured smoothly. In addition, special thanks to [Maxwell](https://github.com/365cent) for remote support.
 
 **Local**  
 Device:										**MacBook Pro M1**  
